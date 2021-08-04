@@ -3,22 +3,22 @@
     {
       "title" : "Article 10",
       "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer at enim urna. ",
-      "url" : "/posts/article-10.json"
+      "url" : "/posts/article-10"
     },
     {
       "title" : "Article 9",
       "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer at enim urna. ",
-      "url" : "/posts/article-9.json"
+      "url" : "/posts/article-9"
     },
     {
       "title" : "Article 8",
       "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer at enim urna. ",
-      "url" : "/posts/article-8.json"
+      "url" : "/posts/article-8"
     },
     {
       "title" : "Article 7",
       "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer at enim urna. ",
-      "url" : "/posts/article-7.json"
+      "url" : "/posts/article-7"
     }
   ]
 }

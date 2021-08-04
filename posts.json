@@ -3,52 +3,52 @@
     {
       "title" : "Article 10",
       "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer at enim urna. ",
-      "url" : "/posts/article-10.json"
+      "url" : "/posts/article-10"
     },
     {
       "title" : "Article 9",
       "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer at enim urna. ",
-      "url" : "/posts/article-9.json"
+      "url" : "/posts/article-9"
     },
     {
       "title" : "Article 8",
       "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer at enim urna. ",
-      "url" : "/posts/article-8.json"
+      "url" : "/posts/article-8"
     },
     {
       "title" : "Article 7",
       "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer at enim urna. ",
-      "url" : "/posts/article-7.json"
+      "url" : "/posts/article-7"
     },
     {
       "title" : "Article 6",
       "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer at enim urna. ",
-      "url" : "/posts/article-6.json"
+      "url" : "/posts/article-6"
     },
     {
       "title" : "Article 5",
       "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer at enim urna. ",
-      "url" : "/posts/article-5.json"
+      "url" : "/posts/article-5"
     },
     {
       "title" : "Article 4",
       "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer at enim urna. ",
-      "url" : "/posts/article-4.json"
+      "url" : "/posts/article-4"
     },
     {
       "title" : "Article 3",
       "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer at enim urna. ",
-      "url" : "/posts/article-3.json"
+      "url" : "/posts/article-3"
     },
     {
       "title" : "Article 2",
       "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer at enim urna. ",
-      "url" : "/posts/article-2.json"
+      "url" : "/posts/article-2"
     },
     {
       "title" : "Article 1",
       "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer at enim urna. ",
-      "url" : "/posts/article-1.json"
+      "url" : "/posts/article-1"
     }
   ]
 }
